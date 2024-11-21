@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdincer34&label=Profile%20views&color=0e75b6&style=flat" alt="mdincer34" /> </p>
 
-- 🔭 I’m currently working on **a Desktop app with avalonia**
+- 🔭 I’m currently working on **a Desktop app with WPF**
 
 - 💬 Ask me about **C,WPF and Asp.net**
 
